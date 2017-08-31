@@ -1,6 +1,5 @@
 # FairBnB
-[![Build Status](https://travis-ci.org/iamchrissmith/air_bnb_clone.svg?branch=master)](https://travis-ci.org/iamchrissmith/air_bnb_clone)  
-Security: Hakiri: [![security](https://hakiri.io/github/iamchrissmith/air_bnb_clone/master.svg)](https://hakiri.io/github/iamchrissmith/air_bnb_clone/master)
+[![Build Status](https://travis-ci.org/iamchrissmith/air_bnb_clone.svg?branch=master)](https://travis-ci.org/iamchrissmith/air_bnb_clone)[![security](https://hakiri.io/github/iamchrissmith/air_bnb_clone/master.svg)](https://hakiri.io/github/iamchrissmith/air_bnb_clone/master)
 
 Production: https://airbnb-me-a-river.herokuapp.com/
 
